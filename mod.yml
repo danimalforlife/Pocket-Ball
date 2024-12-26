@@ -1,0 +1,32 @@
+title: Pocket Ball
+originalAuthor: danimalforlife
+description: Fixes the presents.
+dependencies: 
+
+
+
+assets:
+###Present Model###
+- name: obj/F_NM170_CATCH.mdlx
+  method: copy
+  source:
+  - name: obj/F_NM170_CATCH.mdlx
+
+
+###Present Texture###
+- name: remastered/obj/F_NM170_CATCH.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_NM170_CATCH.mdlx/-0.dds
+
+
+###Open/Closed Present and Kids Picture###
+- name: remastered/msn/us/NM10_MS201.bar/US_NM10_MS201_bar0.png
+  multi:
+  - name: remastered/msn/fr/NM10_MS201.bar/FR_NM10_MS201_bar0.png
+  - name: remastered/msn/gr/NM10_MS201.bar/GR_NM10_MS201_bar0.png
+  - name: remastered/msn/it/NM10_MS201.bar/IT_NM10_MS201_bar0.png
+  - name: remastered/msn/sp/NM10_MS201.bar/SP_NM10_MS201_bar0.png
+  method: copy
+  source:
+  - name: remastered/msn/fr/NM10_MS201.bar/FR_NM10_MS201_bar0.png
