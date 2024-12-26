@@ -1,6 +1,6 @@
 title: Pocket Ball
 originalAuthor: danimalforlife
-description: Fixes the presents.
+description: Fixes the presents. Pocket Ball type can easily be changed by taking one of the images you want and saving it as "-0.dds" in the "remastered/obj/F_NM170_CATCH.mdlx" file path.
 dependencies: 
 
 
