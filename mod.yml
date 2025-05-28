@@ -29,4 +29,4 @@ assets:
   - name: remastered/msn/sp/NM10_MS201.bar/SP_NM10_MS201_bar0.png
   method: copy
   source:
-  - name: remastered/msn/fr/NM10_MS201.bar/FR_NM10_MS201_bar0.png
+  - name: remastered/msn/us/NM10_MS201.bar/US_NM10_MS201_bar0.png
